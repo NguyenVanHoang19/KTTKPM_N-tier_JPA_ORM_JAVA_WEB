@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="KTTKPM_DHKTPM13A_BAITAPLON_NHOM09_EAP">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="KTTKPM_DHKTPM13A_BAITAPLON_NHOM09_EJB.jar" deploy-path="/" handle="module:/resource/KTTKPM_DHKTPM13A_BAITAPLON_NHOM09_EJB/KTTKPM_DHKTPM13A_BAITAPLON_NHOM09_EJB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="KTTKPM_DHKTPM13A_BAITAPLON_NHOM09_WEB.war" deploy-path="/" handle="module:/resource/KTTKPM_DHKTPM13A_BAITAPLON_NHOM09_WEB/KTTKPM_DHKTPM13A_BAITAPLON_NHOM09_WEB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

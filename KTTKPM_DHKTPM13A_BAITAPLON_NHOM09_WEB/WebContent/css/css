@@ -1,0 +1,30 @@
+@charset "utf-8"
+.column-1-8{
+	width: 12.5%;
+}
+.column-2-8{
+	width: 25%;
+}
+.column-3-8{
+	width: 37.5%;
+}
+.column-4-8{
+	width: 50%;
+}
+.column-5-8{
+	width: 62.5%;
+}
+.column-6-8{
+	width: 75%;
+}
+.column-7-8{
+	width: 87.5%;
+}
+.column-8-8{
+	width: 100%;
+}
+.column-1-8{
+	background: red;
+}
+
+
